@@ -39,7 +39,7 @@ rm-mediaquery may be downloaded directly or installed through `npm`.
 #### <a id="get-started">GET STARTED: 
 
   ```javascript
-  var rmMediaquery = require('rmMediaquery');
+  var rmMediaquery = require('rm-mediaquery');
   
   var styleStr_regular = '' +
   '.regular {\n' +
